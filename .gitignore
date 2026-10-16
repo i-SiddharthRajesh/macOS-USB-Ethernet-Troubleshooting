@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and temporary files
+*.swp
+*.tmp
+*.log
+
+# Local diagnostic output (may contain private network information)
+diagnostics.txt
+diagnostics.log
